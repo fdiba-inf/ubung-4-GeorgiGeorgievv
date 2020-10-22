@@ -26,6 +26,5 @@ public class ArrayOutput {
             spaceCounter = 0;
         }
 
-
     }
 }

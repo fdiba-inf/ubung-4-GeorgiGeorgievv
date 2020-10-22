@@ -30,6 +30,5 @@ public class ArrayReversal {
         String output = Arrays.toString(reversedArray);
         System.out.print("Numbers: " + output);
 
-
     }
 }
